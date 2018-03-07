@@ -1,7 +1,7 @@
 /*
 ================================================================================
 
-  Marlin Firmware
+  Marlin Firmware 1.1.8-bugfix
 
   (c) 2011-2018 MarlinFirmware
   Portions of Marlin are (c) by their respective authors.
